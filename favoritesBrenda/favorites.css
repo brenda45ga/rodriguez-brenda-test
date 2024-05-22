@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(245, 238, 179);
+}
+
+h1 {
+    color:rgb(213, 69, 69);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.one{
+    background-color: chartreuse;
+    color:rgb(5, 73, 51);
+    padding: 5px;
+}
+
+.two {
+     color:rgb(163, 65, 138);
+     
+}
+
+#three {
+    color:rgb(54, 185, 163);
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+ol{
+    margin-left: 500px;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
